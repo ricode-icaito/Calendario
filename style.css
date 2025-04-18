@@ -5,7 +5,14 @@
 }
 
 body {
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMZrUgGf0qgTKjklcubq8LpKXDDu1EiOWVbA&usqp=CAU");
+  background-image: url("https://encycolorpedia.es/008f39.png");
+}
+
+h1 {
+    font-size: 4rem;
+    color: rgb(231, 20, 20);
+    text-align: center;
+    margin-top: 20px;
 }
 
 :root {
@@ -15,7 +22,7 @@ body {
 }
 
 .root {
-    min-height: 100vh;
+    min-height: 70vh;
     padding: 0 15px;
     display: flex;
     justify-content: center;
